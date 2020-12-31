@@ -1,1 +1,1 @@
-var link = 'https://wa.me/85262093449'
+var link = 'https://wa.me/85262075814'
